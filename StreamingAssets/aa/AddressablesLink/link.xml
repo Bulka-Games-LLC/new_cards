@@ -8,10 +8,14 @@
     <type fullname="Cats.Dialogs.DialogConfig" preserve="all" />
     <type fullname="Cats.Events.EventContentHandler" preserve="all" />
     <type fullname="Cats.Events.EventsContentHeaderConfig" preserve="all" />
+    <type fullname="Cats.Events.MergeEventContentHandler" preserve="all" />
     <type fullname="Cats.Events.QuestEventContentHandler" preserve="all" />
+    <type fullname="Cats.FamilyGroup" preserve="all" />
     <type fullname="Cats.Game.Localization.LocalizationTextMeshPro" preserve="all" />
     <type fullname="Cats.Intro.IntroPlayer" preserve="all" />
     <type fullname="Cats.Items.ItemsSpritesConfig" preserve="all" />
+    <type fullname="Cats.MergeEventCardsConfig" preserve="all" />
+    <type fullname="Cats.MergeItemsConfig" preserve="all" />
     <type fullname="Cats.PhrasePlayer" preserve="all" />
     <type fullname="Cats.Screens.Board.QuestIconsConfig" preserve="all" />
     <type fullname="Cats.Screens.CardsIntros.CardIntroPlayer" preserve="all" />
@@ -34,6 +38,8 @@
     <type fullname="Cats.Dialogs.Message" preserve="nothing" serialized="true" />
     <type fullname="Cats.Dialogs.ShownCharData" preserve="nothing" serialized="true" />
     <type fullname="Cats.Screens.EventGame.AnimStatePlayer" preserve="nothing" serialized="true" />
+    <type fullname="Cats.MergeEventCardsConfig/CardPair" preserve="nothing" serialized="true" />
+    <type fullname="Cats.MergeItemsConfig/FamilyPair" preserve="nothing" serialized="true" />
     <type fullname="Cats.Characters.Biography" preserve="nothing" serialized="true" />
     <type fullname="Cats.Characters.CardContentConfig" preserve="nothing" serialized="true" />
     <type fullname="Cats.Characters.ChatConfig" preserve="nothing" serialized="true" />
@@ -60,6 +66,8 @@
     <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.AddressableAssets.AssetReferenceSprite" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1[Cats.Characters.CharacterConfig]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1[Cats.Dialogs.DialogConfig]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1[Cats.FamilyGroup]" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Localization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Localization.Locale" preserve="all" />
